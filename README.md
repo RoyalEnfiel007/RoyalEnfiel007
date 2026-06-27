@@ -11,6 +11,12 @@ I'm passionate about designing embedded systems, developing firmware in C, and b
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RoyalEnfiel007&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=RoyalEnfiel007&style=for-the-badge&color=blue)
+
 * 🌱 Currently learning **Embedded Linux**, **Linux Device Drivers**, and **RTOS**
 * 💻 Strong foundation in **C Programming**, **Data Structures**, and **Operating Systems**
 * 🔧 Interested in **STM32**, **ESP32**, **ARM Cortex-M**, and IoT applications
