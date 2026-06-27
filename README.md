@@ -10,8 +10,6 @@ I'm passionate about designing embedded systems, developing firmware in C, and b
 
 ## 🏆 GitHub Trophies
 
-## 🏆 GitHub Trophies
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=RoyalEnfiel007&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
