@@ -8,11 +8,6 @@ I'm passionate about designing embedded systems, developing firmware in C, and b
 
 ## 👨‍💻 About Me
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RoyalEnfiel007&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
----
-
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=RoyalEnfiel007&style=for-the-badge&color=blue)
