@@ -7,6 +7,9 @@ I'm passionate about designing embedded systems, developing firmware in C, and b
 ---
 
 ## 👨‍💻 About Me
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RoyalEnfiel007&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 * 🌱 Currently learning **Embedded Linux**, **Linux Device Drivers**, and **RTOS**
 * 💻 Strong foundation in **C Programming**, **Data Structures**, and **Operating Systems**
